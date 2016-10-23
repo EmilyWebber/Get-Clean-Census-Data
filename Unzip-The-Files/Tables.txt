@@ -1,25 +1,25 @@
-S0902 - Characteristics of Teenagers 15 to 19 Years Old
-S0506 - Selected Characteristics of the Foreign-Born Population by Region of Birth: Latin America
-S0804 - Means of Transportation to Work by Selected Characteristics for Workplace Geography
-S1001 - Grandchildren Characteristics
-S1101 - Households and Families
-S1002 - Grandparents
-S0101 - Age and Sex
-S0102 - Population 60 Years and Over in the United States
-S0103 - Population 65 Years and Over in the United States
-S0102PR - Population 60 Years and Over in Puerto Rico
-S0103PR - Population 65 Years and Over in Puerto Rico
-S0501 - Selected Characteristics of the Native and Foreign-Born Populations
-S0502 - Selected Characteristics of the Foreign-Born Population by Period of Entry into the United States
-S0601 - Selected Characteristics of the Total and Native Populations in the United States
-S0701 - Geographic Mobility by Selected Characteristics in the United States
-S0503 - Selected Characteristics of the Foreign-Born Population by Region of Birth: Europe
-S0801 - Commuting Characteristics by Sex
-S0702 - Movers Between Regions
-S0601PR - Selected Characteristics of the Total and Native Populations in Puerto Rico
-S0502PR - Selected Characteristics of the Foreign-Born Population by Period of Entry into Puerto Rico
-S0504 - Selected Characteristics of the Foreign-Born Population by Region of Birth: Africa, Northern America, and Oceania
-S0901 - Children Characteristics
-S0802 - Means of Transportation to Work by Selected Characteristics
-S0701PR - Geographic Mobility by Selected Characteristics in Puerto Rico
-S0505 - Selected Characteristics of the Foreign-Born Population by Region of Birth: Asia
+S0902-Teenagers
+S0506-From Latin America
+S0804-Transportation to Work
+S1001-Grandchildren 
+S1101-Households and Families
+S1002-Grandparents
+S0101-Age and Gender
+S0102-60 Years and Over in the United States
+S0103-65 Years and Over in the United States
+S0102PR-60 Years and Over in Puerto Rico
+S0103PR-65 Years and Over in Puerto Rico
+S0501-ForeignBorn
+S0502-ForeignBorn by Entry Period
+S0601-Total and Native Populations
+S0701-Geographic Mobility
+S0503-From Europe
+S0801-Commuting by Gender
+S0702-Movers Between Regions
+S0601PR-In Puerto Rico
+S0502PR-ForeignBorn by Entry Date to Puerto Rico
+S0504-From Africa, Northern America, and Oceania
+S0901-Children
+S0802-Transportation to Work by Characteristics
+S0701PR-Geographic Mobility by Characteristics in Puerto Rico
+S0505-From Asia

@@ -1,0 +1,299 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC01,Total; Estimate; Children under 18 years in households
+HC01_MOE_VC01,Total; Margin of Error; Children under 18 years in households
+HC02_EST_VC01,In married-couple family household; Estimate; Children under 18 years in households
+HC02_MOE_VC01,In married-couple family household; Margin of Error; Children under 18 years in households
+HC03_EST_VC01,"In male householder, no wife present, family household; Estimate; Children under 18 years in households"
+HC03_MOE_VC01,"In male householder, no wife present, family household; Margin of Error; Children under 18 years in households"
+HC04_EST_VC01,"In female householder, no husband present, family household; Estimate; Children under 18 years in households"
+HC04_MOE_VC01,"In female householder, no husband present, family household; Margin of Error; Children under 18 years in households"
+HC01_EST_VC03,Total; Estimate; Children under 18 years in households - AGE - Under 6 years
+HC01_MOE_VC03,Total; Margin of Error; Children under 18 years in households - AGE - Under 6 years
+HC02_EST_VC03,In married-couple family household; Estimate; Children under 18 years in households - AGE - Under 6 years
+HC02_MOE_VC03,In married-couple family household; Margin of Error; Children under 18 years in households - AGE - Under 6 years
+HC03_EST_VC03,"In male householder, no wife present, family household; Estimate; Children under 18 years in households - AGE - Under 6 years"
+HC03_MOE_VC03,"In male householder, no wife present, family household; Margin of Error; Children under 18 years in households - AGE - Under 6 years"
+HC04_EST_VC03,"In female householder, no husband present, family household; Estimate; Children under 18 years in households - AGE - Under 6 years"
+HC04_MOE_VC03,"In female householder, no husband present, family household; Margin of Error; Children under 18 years in households - AGE - Under 6 years"
+HC01_EST_VC04,Total; Estimate; Children under 18 years in households - AGE - 6 to 11 years
+HC01_MOE_VC04,Total; Margin of Error; Children under 18 years in households - AGE - 6 to 11 years
+HC02_EST_VC04,In married-couple family household; Estimate; Children under 18 years in households - AGE - 6 to 11 years
+HC02_MOE_VC04,In married-couple family household; Margin of Error; Children under 18 years in households - AGE - 6 to 11 years
+HC03_EST_VC04,"In male householder, no wife present, family household; Estimate; Children under 18 years in households - AGE - 6 to 11 years"
+HC03_MOE_VC04,"In male householder, no wife present, family household; Margin of Error; Children under 18 years in households - AGE - 6 to 11 years"
+HC04_EST_VC04,"In female householder, no husband present, family household; Estimate; Children under 18 years in households - AGE - 6 to 11 years"
+HC04_MOE_VC04,"In female householder, no husband present, family household; Margin of Error; Children under 18 years in households - AGE - 6 to 11 years"
+HC01_EST_VC05,Total; Estimate; Children under 18 years in households - AGE - 12 to 17 years
+HC01_MOE_VC05,Total; Margin of Error; Children under 18 years in households - AGE - 12 to 17 years
+HC02_EST_VC05,In married-couple family household; Estimate; Children under 18 years in households - AGE - 12 to 17 years
+HC02_MOE_VC05,In married-couple family household; Margin of Error; Children under 18 years in households - AGE - 12 to 17 years
+HC03_EST_VC05,"In male householder, no wife present, family household; Estimate; Children under 18 years in households - AGE - 12 to 17 years"
+HC03_MOE_VC05,"In male householder, no wife present, family household; Margin of Error; Children under 18 years in households - AGE - 12 to 17 years"
+HC04_EST_VC05,"In female householder, no husband present, family household; Estimate; Children under 18 years in households - AGE - 12 to 17 years"
+HC04_MOE_VC05,"In female householder, no husband present, family household; Margin of Error; Children under 18 years in households - AGE - 12 to 17 years"
+HC01_EST_VC07,Total; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race
+HC01_MOE_VC07,Total; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race
+HC02_EST_VC07,In married-couple family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race
+HC02_MOE_VC07,In married-couple family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race
+HC03_EST_VC07,"In male householder, no wife present, family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race"
+HC03_MOE_VC07,"In male householder, no wife present, family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race"
+HC04_EST_VC07,"In female householder, no husband present, family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race"
+HC04_MOE_VC07,"In female householder, no husband present, family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race"
+HC01_EST_VC08,Total; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - White
+HC01_MOE_VC08,Total; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - White
+HC02_EST_VC08,In married-couple family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - White
+HC02_MOE_VC08,In married-couple family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - White
+HC03_EST_VC08,"In male householder, no wife present, family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - White"
+HC03_MOE_VC08,"In male householder, no wife present, family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - White"
+HC04_EST_VC08,"In female householder, no husband present, family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - White"
+HC04_MOE_VC08,"In female householder, no husband present, family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - White"
+HC01_EST_VC09,Total; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American
+HC01_MOE_VC09,Total; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American
+HC02_EST_VC09,In married-couple family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American
+HC02_MOE_VC09,In married-couple family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American
+HC03_EST_VC09,"In male householder, no wife present, family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American"
+HC03_MOE_VC09,"In male householder, no wife present, family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American"
+HC04_EST_VC09,"In female householder, no husband present, family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American"
+HC04_MOE_VC09,"In female householder, no husband present, family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American"
+HC01_EST_VC10,Total; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native
+HC01_MOE_VC10,Total; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native
+HC02_EST_VC10,In married-couple family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native
+HC02_MOE_VC10,In married-couple family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native
+HC03_EST_VC10,"In male householder, no wife present, family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native"
+HC03_MOE_VC10,"In male householder, no wife present, family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native"
+HC04_EST_VC10,"In female householder, no husband present, family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native"
+HC04_MOE_VC10,"In female householder, no husband present, family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native"
+HC01_EST_VC11,Total; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian
+HC01_MOE_VC11,Total; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian
+HC02_EST_VC11,In married-couple family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian
+HC02_MOE_VC11,In married-couple family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian
+HC03_EST_VC11,"In male householder, no wife present, family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian"
+HC03_MOE_VC11,"In male householder, no wife present, family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian"
+HC04_EST_VC11,"In female householder, no husband present, family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian"
+HC04_MOE_VC11,"In female householder, no husband present, family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian"
+HC01_EST_VC12,Total; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander
+HC01_MOE_VC12,Total; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander
+HC02_EST_VC12,In married-couple family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander
+HC02_MOE_VC12,In married-couple family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander
+HC03_EST_VC12,"In male householder, no wife present, family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander"
+HC03_MOE_VC12,"In male householder, no wife present, family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander"
+HC04_EST_VC12,"In female householder, no husband present, family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander"
+HC04_MOE_VC12,"In female householder, no husband present, family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander"
+HC01_EST_VC13,Total; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race
+HC01_MOE_VC13,Total; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race
+HC02_EST_VC13,In married-couple family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race
+HC02_MOE_VC13,In married-couple family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race
+HC03_EST_VC13,"In male householder, no wife present, family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race"
+HC03_MOE_VC13,"In male householder, no wife present, family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race"
+HC04_EST_VC13,"In female householder, no husband present, family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race"
+HC04_MOE_VC13,"In female householder, no husband present, family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race"
+HC01_EST_VC14,Total; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC01_MOE_VC14,Total; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC02_EST_VC14,In married-couple family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC02_MOE_VC14,In married-couple family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC03_EST_VC14,"In male householder, no wife present, family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - Two or more races"
+HC03_MOE_VC14,"In male householder, no wife present, family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - Two or more races"
+HC04_EST_VC14,"In female householder, no husband present, family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - Two or more races"
+HC04_MOE_VC14,"In female householder, no husband present, family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - Two or more races"
+HC01_EST_VC15,Total; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - Hispanic or Latino origin (of any race)
+HC01_MOE_VC15,Total; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - Hispanic or Latino origin (of any race)
+HC02_EST_VC15,In married-couple family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - Hispanic or Latino origin (of any race)
+HC02_MOE_VC15,In married-couple family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - Hispanic or Latino origin (of any race)
+HC03_EST_VC15,"In male householder, no wife present, family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - Hispanic or Latino origin (of any race)"
+HC03_MOE_VC15,"In male householder, no wife present, family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - Hispanic or Latino origin (of any race)"
+HC04_EST_VC15,"In female householder, no husband present, family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - Hispanic or Latino origin (of any race)"
+HC04_MOE_VC15,"In female householder, no husband present, family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - Hispanic or Latino origin (of any race)"
+HC01_EST_VC16,"Total; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - White alone, not Hispanic or Latino"
+HC01_MOE_VC16,"Total; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - White alone, not Hispanic or Latino"
+HC02_EST_VC16,"In married-couple family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - White alone, not Hispanic or Latino"
+HC02_MOE_VC16,"In married-couple family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - White alone, not Hispanic or Latino"
+HC03_EST_VC16,"In male householder, no wife present, family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - White alone, not Hispanic or Latino"
+HC03_MOE_VC16,"In male householder, no wife present, family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - White alone, not Hispanic or Latino"
+HC04_EST_VC16,"In female householder, no husband present, family household; Estimate; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - White alone, not Hispanic or Latino"
+HC04_MOE_VC16,"In female householder, no husband present, family household; Margin of Error; Children under 18 years in households - RACE AND HISPANIC OR LATINO ORIGIN - White alone, not Hispanic or Latino"
+HC01_EST_VC18,"Total; Estimate; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Own child (biological, step or adopted)"
+HC01_MOE_VC18,"Total; Margin of Error; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Own child (biological, step or adopted)"
+HC02_EST_VC18,"In married-couple family household; Estimate; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Own child (biological, step or adopted)"
+HC02_MOE_VC18,"In married-couple family household; Margin of Error; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Own child (biological, step or adopted)"
+HC03_EST_VC18,"In male householder, no wife present, family household; Estimate; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Own child (biological, step or adopted)"
+HC03_MOE_VC18,"In male householder, no wife present, family household; Margin of Error; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Own child (biological, step or adopted)"
+HC04_EST_VC18,"In female householder, no husband present, family household; Estimate; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Own child (biological, step or adopted)"
+HC04_MOE_VC18,"In female householder, no husband present, family household; Margin of Error; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Own child (biological, step or adopted)"
+HC01_EST_VC19,Total; Estimate; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Grandchild
+HC01_MOE_VC19,Total; Margin of Error; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Grandchild
+HC02_EST_VC19,In married-couple family household; Estimate; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Grandchild
+HC02_MOE_VC19,In married-couple family household; Margin of Error; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Grandchild
+HC03_EST_VC19,"In male householder, no wife present, family household; Estimate; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Grandchild"
+HC03_MOE_VC19,"In male householder, no wife present, family household; Margin of Error; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Grandchild"
+HC04_EST_VC19,"In female householder, no husband present, family household; Estimate; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Grandchild"
+HC04_MOE_VC19,"In female householder, no husband present, family household; Margin of Error; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Grandchild"
+HC01_EST_VC20,Total; Estimate; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Other relatives
+HC01_MOE_VC20,Total; Margin of Error; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Other relatives
+HC02_EST_VC20,In married-couple family household; Estimate; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Other relatives
+HC02_MOE_VC20,In married-couple family household; Margin of Error; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Other relatives
+HC03_EST_VC20,"In male householder, no wife present, family household; Estimate; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Other relatives"
+HC03_MOE_VC20,"In male householder, no wife present, family household; Margin of Error; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Other relatives"
+HC04_EST_VC20,"In female householder, no husband present, family household; Estimate; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Other relatives"
+HC04_MOE_VC20,"In female householder, no husband present, family household; Margin of Error; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Other relatives"
+HC01_EST_VC21,Total; Estimate; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Foster child or other unrelated child
+HC01_MOE_VC21,Total; Margin of Error; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Foster child or other unrelated child
+HC02_EST_VC21,In married-couple family household; Estimate; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Foster child or other unrelated child
+HC02_MOE_VC21,In married-couple family household; Margin of Error; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Foster child or other unrelated child
+HC03_EST_VC21,"In male householder, no wife present, family household; Estimate; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Foster child or other unrelated child"
+HC03_MOE_VC21,"In male householder, no wife present, family household; Margin of Error; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Foster child or other unrelated child"
+HC04_EST_VC21,"In female householder, no husband present, family household; Estimate; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Foster child or other unrelated child"
+HC04_MOE_VC21,"In female householder, no husband present, family household; Margin of Error; Children under 18 years in households - RELATIONSHIP TO HOUSEHOLDER - Foster child or other unrelated child"
+HC01_EST_VC23,Total; Estimate; Children under 18 years in households - CITIZENSHIP STATUS - Native
+HC01_MOE_VC23,Total; Margin of Error; Children under 18 years in households - CITIZENSHIP STATUS - Native
+HC02_EST_VC23,In married-couple family household; Estimate; Children under 18 years in households - CITIZENSHIP STATUS - Native
+HC02_MOE_VC23,In married-couple family household; Margin of Error; Children under 18 years in households - CITIZENSHIP STATUS - Native
+HC03_EST_VC23,"In male householder, no wife present, family household; Estimate; Children under 18 years in households - CITIZENSHIP STATUS - Native"
+HC03_MOE_VC23,"In male householder, no wife present, family household; Margin of Error; Children under 18 years in households - CITIZENSHIP STATUS - Native"
+HC04_EST_VC23,"In female householder, no husband present, family household; Estimate; Children under 18 years in households - CITIZENSHIP STATUS - Native"
+HC04_MOE_VC23,"In female householder, no husband present, family household; Margin of Error; Children under 18 years in households - CITIZENSHIP STATUS - Native"
+HC01_EST_VC24,Total; Estimate; Children under 18 years in households - CITIZENSHIP STATUS - Foreign born
+HC01_MOE_VC24,Total; Margin of Error; Children under 18 years in households - CITIZENSHIP STATUS - Foreign born
+HC02_EST_VC24,In married-couple family household; Estimate; Children under 18 years in households - CITIZENSHIP STATUS - Foreign born
+HC02_MOE_VC24,In married-couple family household; Margin of Error; Children under 18 years in households - CITIZENSHIP STATUS - Foreign born
+HC03_EST_VC24,"In male householder, no wife present, family household; Estimate; Children under 18 years in households - CITIZENSHIP STATUS - Foreign born"
+HC03_MOE_VC24,"In male householder, no wife present, family household; Margin of Error; Children under 18 years in households - CITIZENSHIP STATUS - Foreign born"
+HC04_EST_VC24,"In female householder, no husband present, family household; Estimate; Children under 18 years in households - CITIZENSHIP STATUS - Foreign born"
+HC04_MOE_VC24,"In female householder, no husband present, family household; Margin of Error; Children under 18 years in households - CITIZENSHIP STATUS - Foreign born"
+HC01_EST_VC26,Total; Estimate; Children under 18 years in households - PRESENCE OF OTHER ADULTS - Unmarried partner of householder present
+HC01_MOE_VC26,Total; Margin of Error; Children under 18 years in households - PRESENCE OF OTHER ADULTS - Unmarried partner of householder present
+HC02_EST_VC26,In married-couple family household; Estimate; Children under 18 years in households - PRESENCE OF OTHER ADULTS - Unmarried partner of householder present
+HC02_MOE_VC26,In married-couple family household; Margin of Error; Children under 18 years in households - PRESENCE OF OTHER ADULTS - Unmarried partner of householder present
+HC03_EST_VC26,"In male householder, no wife present, family household; Estimate; Children under 18 years in households - PRESENCE OF OTHER ADULTS - Unmarried partner of householder present"
+HC03_MOE_VC26,"In male householder, no wife present, family household; Margin of Error; Children under 18 years in households - PRESENCE OF OTHER ADULTS - Unmarried partner of householder present"
+HC04_EST_VC26,"In female householder, no husband present, family household; Estimate; Children under 18 years in households - PRESENCE OF OTHER ADULTS - Unmarried partner of householder present"
+HC04_MOE_VC26,"In female householder, no husband present, family household; Margin of Error; Children under 18 years in households - PRESENCE OF OTHER ADULTS - Unmarried partner of householder present"
+HC01_EST_VC28,Total; Estimate; DISABILITY STATUS - Civilian children under 18 years in households
+HC01_MOE_VC28,Total; Margin of Error; DISABILITY STATUS - Civilian children under 18 years in households
+HC02_EST_VC28,In married-couple family household; Estimate; DISABILITY STATUS - Civilian children under 18 years in households
+HC02_MOE_VC28,In married-couple family household; Margin of Error; DISABILITY STATUS - Civilian children under 18 years in households
+HC03_EST_VC28,"In male householder, no wife present, family household; Estimate; DISABILITY STATUS - Civilian children under 18 years in households"
+HC03_MOE_VC28,"In male householder, no wife present, family household; Margin of Error; DISABILITY STATUS - Civilian children under 18 years in households"
+HC04_EST_VC28,"In female householder, no husband present, family household; Estimate; DISABILITY STATUS - Civilian children under 18 years in households"
+HC04_MOE_VC28,"In female householder, no husband present, family household; Margin of Error; DISABILITY STATUS - Civilian children under 18 years in households"
+HC01_EST_VC29,Total; Estimate; DISABILITY STATUS - Civilian children under 18 years in households - With any disability
+HC01_MOE_VC29,Total; Margin of Error; DISABILITY STATUS - Civilian children under 18 years in households - With any disability
+HC02_EST_VC29,In married-couple family household; Estimate; DISABILITY STATUS - Civilian children under 18 years in households - With any disability
+HC02_MOE_VC29,In married-couple family household; Margin of Error; DISABILITY STATUS - Civilian children under 18 years in households - With any disability
+HC03_EST_VC29,"In male householder, no wife present, family household; Estimate; DISABILITY STATUS - Civilian children under 18 years in households - With any disability"
+HC03_MOE_VC29,"In male householder, no wife present, family household; Margin of Error; DISABILITY STATUS - Civilian children under 18 years in households - With any disability"
+HC04_EST_VC29,"In female householder, no husband present, family household; Estimate; DISABILITY STATUS - Civilian children under 18 years in households - With any disability"
+HC04_MOE_VC29,"In female householder, no husband present, family household; Margin of Error; DISABILITY STATUS - Civilian children under 18 years in households - With any disability"
+HC01_EST_VC31,Total; Estimate; SCHOOL ENROLLMENT - Children 3 to 17 years in households
+HC01_MOE_VC31,Total; Margin of Error; SCHOOL ENROLLMENT - Children 3 to 17 years in households
+HC02_EST_VC31,In married-couple family household; Estimate; SCHOOL ENROLLMENT - Children 3 to 17 years in households
+HC02_MOE_VC31,In married-couple family household; Margin of Error; SCHOOL ENROLLMENT - Children 3 to 17 years in households
+HC03_EST_VC31,"In male householder, no wife present, family household; Estimate; SCHOOL ENROLLMENT - Children 3 to 17 years in households"
+HC03_MOE_VC31,"In male householder, no wife present, family household; Margin of Error; SCHOOL ENROLLMENT - Children 3 to 17 years in households"
+HC04_EST_VC31,"In female householder, no husband present, family household; Estimate; SCHOOL ENROLLMENT - Children 3 to 17 years in households"
+HC04_MOE_VC31,"In female householder, no husband present, family household; Margin of Error; SCHOOL ENROLLMENT - Children 3 to 17 years in households"
+HC01_EST_VC32,Total; Estimate; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Enrolled in school
+HC01_MOE_VC32,Total; Margin of Error; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Enrolled in school
+HC02_EST_VC32,In married-couple family household; Estimate; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Enrolled in school
+HC02_MOE_VC32,In married-couple family household; Margin of Error; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Enrolled in school
+HC03_EST_VC32,"In male householder, no wife present, family household; Estimate; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Enrolled in school"
+HC03_MOE_VC32,"In male householder, no wife present, family household; Margin of Error; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Enrolled in school"
+HC04_EST_VC32,"In female householder, no husband present, family household; Estimate; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Enrolled in school"
+HC04_MOE_VC32,"In female householder, no husband present, family household; Margin of Error; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Enrolled in school"
+HC01_EST_VC33,Total; Estimate; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Enrolled in school - Public
+HC01_MOE_VC33,Total; Margin of Error; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Enrolled in school - Public
+HC02_EST_VC33,In married-couple family household; Estimate; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Enrolled in school - Public
+HC02_MOE_VC33,In married-couple family household; Margin of Error; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Enrolled in school - Public
+HC03_EST_VC33,"In male householder, no wife present, family household; Estimate; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Enrolled in school - Public"
+HC03_MOE_VC33,"In male householder, no wife present, family household; Margin of Error; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Enrolled in school - Public"
+HC04_EST_VC33,"In female householder, no husband present, family household; Estimate; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Enrolled in school - Public"
+HC04_MOE_VC33,"In female householder, no husband present, family household; Margin of Error; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Enrolled in school - Public"
+HC01_EST_VC34,Total; Estimate; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Enrolled in school - Private
+HC01_MOE_VC34,Total; Margin of Error; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Enrolled in school - Private
+HC02_EST_VC34,In married-couple family household; Estimate; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Enrolled in school - Private
+HC02_MOE_VC34,In married-couple family household; Margin of Error; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Enrolled in school - Private
+HC03_EST_VC34,"In male householder, no wife present, family household; Estimate; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Enrolled in school - Private"
+HC03_MOE_VC34,"In male householder, no wife present, family household; Margin of Error; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Enrolled in school - Private"
+HC04_EST_VC34,"In female householder, no husband present, family household; Estimate; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Enrolled in school - Private"
+HC04_MOE_VC34,"In female householder, no husband present, family household; Margin of Error; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Enrolled in school - Private"
+HC01_EST_VC35,Total; Estimate; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Not enrolled in school
+HC01_MOE_VC35,Total; Margin of Error; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Not enrolled in school
+HC02_EST_VC35,In married-couple family household; Estimate; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Not enrolled in school
+HC02_MOE_VC35,In married-couple family household; Margin of Error; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Not enrolled in school
+HC03_EST_VC35,"In male householder, no wife present, family household; Estimate; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Not enrolled in school"
+HC03_MOE_VC35,"In male householder, no wife present, family household; Margin of Error; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Not enrolled in school"
+HC04_EST_VC35,"In female householder, no husband present, family household; Estimate; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Not enrolled in school"
+HC04_MOE_VC35,"In female householder, no husband present, family household; Margin of Error; SCHOOL ENROLLMENT - Children 3 to 17 years in households - Not enrolled in school"
+HC01_EST_VC37,Total; Estimate; MEDIAN FAMILY INCOME IN THE PAST 12 MONTHS (IN 2008 INFLATION-ADJUSTED DOLLARS) FOR FAMILIES WITH OWN CHILDREN - Median income (dollars)
+HC01_MOE_VC37,Total; Margin of Error; MEDIAN FAMILY INCOME IN THE PAST 12 MONTHS (IN 2008 INFLATION-ADJUSTED DOLLARS) FOR FAMILIES WITH OWN CHILDREN - Median income (dollars)
+HC02_EST_VC37,In married-couple family household; Estimate; MEDIAN FAMILY INCOME IN THE PAST 12 MONTHS (IN 2008 INFLATION-ADJUSTED DOLLARS) FOR FAMILIES WITH OWN CHILDREN - Median income (dollars)
+HC02_MOE_VC37,In married-couple family household; Margin of Error; MEDIAN FAMILY INCOME IN THE PAST 12 MONTHS (IN 2008 INFLATION-ADJUSTED DOLLARS) FOR FAMILIES WITH OWN CHILDREN - Median income (dollars)
+HC03_EST_VC37,"In male householder, no wife present, family household; Estimate; MEDIAN FAMILY INCOME IN THE PAST 12 MONTHS (IN 2008 INFLATION-ADJUSTED DOLLARS) FOR FAMILIES WITH OWN CHILDREN - Median income (dollars)"
+HC03_MOE_VC37,"In male householder, no wife present, family household; Margin of Error; MEDIAN FAMILY INCOME IN THE PAST 12 MONTHS (IN 2008 INFLATION-ADJUSTED DOLLARS) FOR FAMILIES WITH OWN CHILDREN - Median income (dollars)"
+HC04_EST_VC37,"In female householder, no husband present, family household; Estimate; MEDIAN FAMILY INCOME IN THE PAST 12 MONTHS (IN 2008 INFLATION-ADJUSTED DOLLARS) FOR FAMILIES WITH OWN CHILDREN - Median income (dollars)"
+HC04_MOE_VC37,"In female householder, no husband present, family household; Margin of Error; MEDIAN FAMILY INCOME IN THE PAST 12 MONTHS (IN 2008 INFLATION-ADJUSTED DOLLARS) FOR FAMILIES WITH OWN CHILDREN - Median income (dollars)"
+HC01_EST_VC38,Total; Estimate; Children under 18 years in households
+HC01_MOE_VC38,Total; Margin of Error; Children under 18 years in households
+HC02_EST_VC38,In married-couple family household; Estimate; Children under 18 years in households
+HC02_MOE_VC38,In married-couple family household; Margin of Error; Children under 18 years in households
+HC03_EST_VC38,"In male householder, no wife present, family household; Estimate; Children under 18 years in households"
+HC03_MOE_VC38,"In male householder, no wife present, family household; Margin of Error; Children under 18 years in households"
+HC04_EST_VC38,"In female householder, no husband present, family household; Estimate; Children under 18 years in households"
+HC04_MOE_VC38,"In female householder, no husband present, family household; Margin of Error; Children under 18 years in households"
+HC01_EST_VC40,"Total; Estimate; Children under 18 years in households - PUBLIC ASSISTANCE IN THE PAST 12 MONTHS - Children living in households with Supplemental Security Income (SSI), cash public assistance income, or Food Stamp benefits"
+HC01_MOE_VC40,"Total; Margin of Error; Children under 18 years in households - PUBLIC ASSISTANCE IN THE PAST 12 MONTHS - Children living in households with Supplemental Security Income (SSI), cash public assistance income, or Food Stamp benefits"
+HC02_EST_VC40,"In married-couple family household; Estimate; Children under 18 years in households - PUBLIC ASSISTANCE IN THE PAST 12 MONTHS - Children living in households with Supplemental Security Income (SSI), cash public assistance income, or Food Stamp benefits"
+HC02_MOE_VC40,"In married-couple family household; Margin of Error; Children under 18 years in households - PUBLIC ASSISTANCE IN THE PAST 12 MONTHS - Children living in households with Supplemental Security Income (SSI), cash public assistance income, or Food Stamp benefits"
+HC03_EST_VC40,"In male householder, no wife present, family household; Estimate; Children under 18 years in households - PUBLIC ASSISTANCE IN THE PAST 12 MONTHS - Children living in households with Supplemental Security Income (SSI), cash public assistance income, or Food Stamp benefits"
+HC03_MOE_VC40,"In male householder, no wife present, family household; Margin of Error; Children under 18 years in households - PUBLIC ASSISTANCE IN THE PAST 12 MONTHS - Children living in households with Supplemental Security Income (SSI), cash public assistance income, or Food Stamp benefits"
+HC04_EST_VC40,"In female householder, no husband present, family household; Estimate; Children under 18 years in households - PUBLIC ASSISTANCE IN THE PAST 12 MONTHS - Children living in households with Supplemental Security Income (SSI), cash public assistance income, or Food Stamp benefits"
+HC04_MOE_VC40,"In female householder, no husband present, family household; Margin of Error; Children under 18 years in households - PUBLIC ASSISTANCE IN THE PAST 12 MONTHS - Children living in households with Supplemental Security Income (SSI), cash public assistance income, or Food Stamp benefits"
+HC01_EST_VC42,Total; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Children in households for whom poverty status is determined
+HC01_MOE_VC42,Total; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Children in households for whom poverty status is determined
+HC02_EST_VC42,In married-couple family household; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Children in households for whom poverty status is determined
+HC02_MOE_VC42,In married-couple family household; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Children in households for whom poverty status is determined
+HC03_EST_VC42,"In male householder, no wife present, family household; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Children in households for whom poverty status is determined"
+HC03_MOE_VC42,"In male householder, no wife present, family household; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Children in households for whom poverty status is determined"
+HC04_EST_VC42,"In female householder, no husband present, family household; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Children in households for whom poverty status is determined"
+HC04_MOE_VC42,"In female householder, no husband present, family household; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Children in households for whom poverty status is determined"
+HC01_EST_VC43,Total; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Children in households for whom poverty status is determined - Income in the past 12 months below poverty level
+HC01_MOE_VC43,Total; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Children in households for whom poverty status is determined - Income in the past 12 months below poverty level
+HC02_EST_VC43,In married-couple family household; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Children in households for whom poverty status is determined - Income in the past 12 months below poverty level
+HC02_MOE_VC43,In married-couple family household; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Children in households for whom poverty status is determined - Income in the past 12 months below poverty level
+HC03_EST_VC43,"In male householder, no wife present, family household; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Children in households for whom poverty status is determined - Income in the past 12 months below poverty level"
+HC03_MOE_VC43,"In male householder, no wife present, family household; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Children in households for whom poverty status is determined - Income in the past 12 months below poverty level"
+HC04_EST_VC43,"In female householder, no husband present, family household; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Children in households for whom poverty status is determined - Income in the past 12 months below poverty level"
+HC04_MOE_VC43,"In female householder, no husband present, family household; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Children in households for whom poverty status is determined - Income in the past 12 months below poverty level"
+HC01_EST_VC44,Total; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Children in households for whom poverty status is determined - Income in the past 12 months at or above poverty level
+HC01_MOE_VC44,Total; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Children in households for whom poverty status is determined - Income in the past 12 months at or above poverty level
+HC02_EST_VC44,In married-couple family household; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Children in households for whom poverty status is determined - Income in the past 12 months at or above poverty level
+HC02_MOE_VC44,In married-couple family household; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Children in households for whom poverty status is determined - Income in the past 12 months at or above poverty level
+HC03_EST_VC44,"In male householder, no wife present, family household; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Children in households for whom poverty status is determined - Income in the past 12 months at or above poverty level"
+HC03_MOE_VC44,"In male householder, no wife present, family household; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Children in households for whom poverty status is determined - Income in the past 12 months at or above poverty level"
+HC04_EST_VC44,"In female householder, no husband present, family household; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Children in households for whom poverty status is determined - Income in the past 12 months at or above poverty level"
+HC04_MOE_VC44,"In female householder, no husband present, family household; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Children in households for whom poverty status is determined - Income in the past 12 months at or above poverty level"
+HC01_EST_VC46,Total; Estimate; HOUSING TENURE - Children under 18 years in occupied housing units
+HC01_MOE_VC46,Total; Margin of Error; HOUSING TENURE - Children under 18 years in occupied housing units
+HC02_EST_VC46,In married-couple family household; Estimate; HOUSING TENURE - Children under 18 years in occupied housing units
+HC02_MOE_VC46,In married-couple family household; Margin of Error; HOUSING TENURE - Children under 18 years in occupied housing units
+HC03_EST_VC46,"In male householder, no wife present, family household; Estimate; HOUSING TENURE - Children under 18 years in occupied housing units"
+HC03_MOE_VC46,"In male householder, no wife present, family household; Margin of Error; HOUSING TENURE - Children under 18 years in occupied housing units"
+HC04_EST_VC46,"In female householder, no husband present, family household; Estimate; HOUSING TENURE - Children under 18 years in occupied housing units"
+HC04_MOE_VC46,"In female householder, no husband present, family household; Margin of Error; HOUSING TENURE - Children under 18 years in occupied housing units"
+HC01_EST_VC47,Total; Estimate; HOUSING TENURE - Children under 18 years in occupied housing units - In owner-occupied housing units
+HC01_MOE_VC47,Total; Margin of Error; HOUSING TENURE - Children under 18 years in occupied housing units - In owner-occupied housing units
+HC02_EST_VC47,In married-couple family household; Estimate; HOUSING TENURE - Children under 18 years in occupied housing units - In owner-occupied housing units
+HC02_MOE_VC47,In married-couple family household; Margin of Error; HOUSING TENURE - Children under 18 years in occupied housing units - In owner-occupied housing units
+HC03_EST_VC47,"In male householder, no wife present, family household; Estimate; HOUSING TENURE - Children under 18 years in occupied housing units - In owner-occupied housing units"
+HC03_MOE_VC47,"In male householder, no wife present, family household; Margin of Error; HOUSING TENURE - Children under 18 years in occupied housing units - In owner-occupied housing units"
+HC04_EST_VC47,"In female householder, no husband present, family household; Estimate; HOUSING TENURE - Children under 18 years in occupied housing units - In owner-occupied housing units"
+HC04_MOE_VC47,"In female householder, no husband present, family household; Margin of Error; HOUSING TENURE - Children under 18 years in occupied housing units - In owner-occupied housing units"
+HC01_EST_VC48,Total; Estimate; HOUSING TENURE - Children under 18 years in occupied housing units - In renter-occupied housing units
+HC01_MOE_VC48,Total; Margin of Error; HOUSING TENURE - Children under 18 years in occupied housing units - In renter-occupied housing units
+HC02_EST_VC48,In married-couple family household; Estimate; HOUSING TENURE - Children under 18 years in occupied housing units - In renter-occupied housing units
+HC02_MOE_VC48,In married-couple family household; Margin of Error; HOUSING TENURE - Children under 18 years in occupied housing units - In renter-occupied housing units
+HC03_EST_VC48,"In male householder, no wife present, family household; Estimate; HOUSING TENURE - Children under 18 years in occupied housing units - In renter-occupied housing units"
+HC03_MOE_VC48,"In male householder, no wife present, family household; Margin of Error; HOUSING TENURE - Children under 18 years in occupied housing units - In renter-occupied housing units"
+HC04_EST_VC48,"In female householder, no husband present, family household; Estimate; HOUSING TENURE - Children under 18 years in occupied housing units - In renter-occupied housing units"
+HC04_MOE_VC48,"In female householder, no husband present, family household; Margin of Error; HOUSING TENURE - Children under 18 years in occupied housing units - In renter-occupied housing units"

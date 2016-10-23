@@ -1,0 +1,103 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC01,Total; Estimate; Population 1 year and over
+HC01_MOE_VC01,Total; Margin of Error; Population 1 year and over
+HC03_EST_VC01,Region of Current Residence - Northeast; Estimate; Population 1 year and over
+HC03_MOE_VC01,Region of Current Residence - Northeast; Margin of Error; Population 1 year and over
+HC04_EST_VC01,Region of Current Residence - Midwest; Estimate; Population 1 year and over
+HC04_MOE_VC01,Region of Current Residence - Midwest; Margin of Error; Population 1 year and over
+HC05_EST_VC01,Region of Current Residence - South; Estimate; Population 1 year and over
+HC05_MOE_VC01,Region of Current Residence - South; Margin of Error; Population 1 year and over
+HC06_EST_VC01,Region of Current Residence - West; Estimate; Population 1 year and over
+HC06_MOE_VC01,Region of Current Residence - West; Margin of Error; Population 1 year and over
+HC01_EST_VC02,Total; Estimate; Population 1 year and over - Same residence (non-movers)
+HC01_MOE_VC02,Total; Margin of Error; Population 1 year and over - Same residence (non-movers)
+HC03_EST_VC02,Region of Current Residence - Northeast; Estimate; Population 1 year and over - Same residence (non-movers)
+HC03_MOE_VC02,Region of Current Residence - Northeast; Margin of Error; Population 1 year and over - Same residence (non-movers)
+HC04_EST_VC02,Region of Current Residence - Midwest; Estimate; Population 1 year and over - Same residence (non-movers)
+HC04_MOE_VC02,Region of Current Residence - Midwest; Margin of Error; Population 1 year and over - Same residence (non-movers)
+HC05_EST_VC02,Region of Current Residence - South; Estimate; Population 1 year and over - Same residence (non-movers)
+HC05_MOE_VC02,Region of Current Residence - South; Margin of Error; Population 1 year and over - Same residence (non-movers)
+HC06_EST_VC02,Region of Current Residence - West; Estimate; Population 1 year and over - Same residence (non-movers)
+HC06_MOE_VC02,Region of Current Residence - West; Margin of Error; Population 1 year and over - Same residence (non-movers)
+HC01_EST_VC03,Total; Estimate; Population 1 year and over - Movers within same region
+HC01_MOE_VC03,Total; Margin of Error; Population 1 year and over - Movers within same region
+HC03_EST_VC03,Region of Current Residence - Northeast; Estimate; Population 1 year and over - Movers within same region
+HC03_MOE_VC03,Region of Current Residence - Northeast; Margin of Error; Population 1 year and over - Movers within same region
+HC04_EST_VC03,Region of Current Residence - Midwest; Estimate; Population 1 year and over - Movers within same region
+HC04_MOE_VC03,Region of Current Residence - Midwest; Margin of Error; Population 1 year and over - Movers within same region
+HC05_EST_VC03,Region of Current Residence - South; Estimate; Population 1 year and over - Movers within same region
+HC05_MOE_VC03,Region of Current Residence - South; Margin of Error; Population 1 year and over - Movers within same region
+HC06_EST_VC03,Region of Current Residence - West; Estimate; Population 1 year and over - Movers within same region
+HC06_MOE_VC03,Region of Current Residence - West; Margin of Error; Population 1 year and over - Movers within same region
+HC01_EST_VC04,Total; Estimate; Population 1 year and over - Movers between regions by region of residence 1 year ago
+HC01_MOE_VC04,Total; Margin of Error; Population 1 year and over - Movers between regions by region of residence 1 year ago
+HC03_EST_VC04,Region of Current Residence - Northeast; Estimate; Population 1 year and over - Movers between regions by region of residence 1 year ago
+HC03_MOE_VC04,Region of Current Residence - Northeast; Margin of Error; Population 1 year and over - Movers between regions by region of residence 1 year ago
+HC04_EST_VC04,Region of Current Residence - Midwest; Estimate; Population 1 year and over - Movers between regions by region of residence 1 year ago
+HC04_MOE_VC04,Region of Current Residence - Midwest; Margin of Error; Population 1 year and over - Movers between regions by region of residence 1 year ago
+HC05_EST_VC04,Region of Current Residence - South; Estimate; Population 1 year and over - Movers between regions by region of residence 1 year ago
+HC05_MOE_VC04,Region of Current Residence - South; Margin of Error; Population 1 year and over - Movers between regions by region of residence 1 year ago
+HC06_EST_VC04,Region of Current Residence - West; Estimate; Population 1 year and over - Movers between regions by region of residence 1 year ago
+HC06_MOE_VC04,Region of Current Residence - West; Margin of Error; Population 1 year and over - Movers between regions by region of residence 1 year ago
+HC01_EST_VC05,Total; Estimate; Population 1 year and over - Movers between regions by region of residence 1 year ago - Northeast
+HC01_MOE_VC05,Total; Margin of Error; Population 1 year and over - Movers between regions by region of residence 1 year ago - Northeast
+HC03_EST_VC05,Region of Current Residence - Northeast; Estimate; Population 1 year and over - Movers between regions by region of residence 1 year ago - Northeast
+HC03_MOE_VC05,Region of Current Residence - Northeast; Margin of Error; Population 1 year and over - Movers between regions by region of residence 1 year ago - Northeast
+HC04_EST_VC05,Region of Current Residence - Midwest; Estimate; Population 1 year and over - Movers between regions by region of residence 1 year ago - Northeast
+HC04_MOE_VC05,Region of Current Residence - Midwest; Margin of Error; Population 1 year and over - Movers between regions by region of residence 1 year ago - Northeast
+HC05_EST_VC05,Region of Current Residence - South; Estimate; Population 1 year and over - Movers between regions by region of residence 1 year ago - Northeast
+HC05_MOE_VC05,Region of Current Residence - South; Margin of Error; Population 1 year and over - Movers between regions by region of residence 1 year ago - Northeast
+HC06_EST_VC05,Region of Current Residence - West; Estimate; Population 1 year and over - Movers between regions by region of residence 1 year ago - Northeast
+HC06_MOE_VC05,Region of Current Residence - West; Margin of Error; Population 1 year and over - Movers between regions by region of residence 1 year ago - Northeast
+HC01_EST_VC06,Total; Estimate; Population 1 year and over - Movers between regions by region of residence 1 year ago - Midwest
+HC01_MOE_VC06,Total; Margin of Error; Population 1 year and over - Movers between regions by region of residence 1 year ago - Midwest
+HC03_EST_VC06,Region of Current Residence - Northeast; Estimate; Population 1 year and over - Movers between regions by region of residence 1 year ago - Midwest
+HC03_MOE_VC06,Region of Current Residence - Northeast; Margin of Error; Population 1 year and over - Movers between regions by region of residence 1 year ago - Midwest
+HC04_EST_VC06,Region of Current Residence - Midwest; Estimate; Population 1 year and over - Movers between regions by region of residence 1 year ago - Midwest
+HC04_MOE_VC06,Region of Current Residence - Midwest; Margin of Error; Population 1 year and over - Movers between regions by region of residence 1 year ago - Midwest
+HC05_EST_VC06,Region of Current Residence - South; Estimate; Population 1 year and over - Movers between regions by region of residence 1 year ago - Midwest
+HC05_MOE_VC06,Region of Current Residence - South; Margin of Error; Population 1 year and over - Movers between regions by region of residence 1 year ago - Midwest
+HC06_EST_VC06,Region of Current Residence - West; Estimate; Population 1 year and over - Movers between regions by region of residence 1 year ago - Midwest
+HC06_MOE_VC06,Region of Current Residence - West; Margin of Error; Population 1 year and over - Movers between regions by region of residence 1 year ago - Midwest
+HC01_EST_VC07,Total; Estimate; Population 1 year and over - Movers between regions by region of residence 1 year ago - South
+HC01_MOE_VC07,Total; Margin of Error; Population 1 year and over - Movers between regions by region of residence 1 year ago - South
+HC03_EST_VC07,Region of Current Residence - Northeast; Estimate; Population 1 year and over - Movers between regions by region of residence 1 year ago - South
+HC03_MOE_VC07,Region of Current Residence - Northeast; Margin of Error; Population 1 year and over - Movers between regions by region of residence 1 year ago - South
+HC04_EST_VC07,Region of Current Residence - Midwest; Estimate; Population 1 year and over - Movers between regions by region of residence 1 year ago - South
+HC04_MOE_VC07,Region of Current Residence - Midwest; Margin of Error; Population 1 year and over - Movers between regions by region of residence 1 year ago - South
+HC05_EST_VC07,Region of Current Residence - South; Estimate; Population 1 year and over - Movers between regions by region of residence 1 year ago - South
+HC05_MOE_VC07,Region of Current Residence - South; Margin of Error; Population 1 year and over - Movers between regions by region of residence 1 year ago - South
+HC06_EST_VC07,Region of Current Residence - West; Estimate; Population 1 year and over - Movers between regions by region of residence 1 year ago - South
+HC06_MOE_VC07,Region of Current Residence - West; Margin of Error; Population 1 year and over - Movers between regions by region of residence 1 year ago - South
+HC01_EST_VC08,Total; Estimate; Population 1 year and over - Movers between regions by region of residence 1 year ago - West
+HC01_MOE_VC08,Total; Margin of Error; Population 1 year and over - Movers between regions by region of residence 1 year ago - West
+HC03_EST_VC08,Region of Current Residence - Northeast; Estimate; Population 1 year and over - Movers between regions by region of residence 1 year ago - West
+HC03_MOE_VC08,Region of Current Residence - Northeast; Margin of Error; Population 1 year and over - Movers between regions by region of residence 1 year ago - West
+HC04_EST_VC08,Region of Current Residence - Midwest; Estimate; Population 1 year and over - Movers between regions by region of residence 1 year ago - West
+HC04_MOE_VC08,Region of Current Residence - Midwest; Margin of Error; Population 1 year and over - Movers between regions by region of residence 1 year ago - West
+HC05_EST_VC08,Region of Current Residence - South; Estimate; Population 1 year and over - Movers between regions by region of residence 1 year ago - West
+HC05_MOE_VC08,Region of Current Residence - South; Margin of Error; Population 1 year and over - Movers between regions by region of residence 1 year ago - West
+HC06_EST_VC08,Region of Current Residence - West; Estimate; Population 1 year and over - Movers between regions by region of residence 1 year ago - West
+HC06_MOE_VC08,Region of Current Residence - West; Margin of Error; Population 1 year and over - Movers between regions by region of residence 1 year ago - West
+HC01_EST_VC09,Total; Estimate; Population 1 year and over - Movers from abroad
+HC01_MOE_VC09,Total; Margin of Error; Population 1 year and over - Movers from abroad
+HC03_EST_VC09,Region of Current Residence - Northeast; Estimate; Population 1 year and over - Movers from abroad
+HC03_MOE_VC09,Region of Current Residence - Northeast; Margin of Error; Population 1 year and over - Movers from abroad
+HC04_EST_VC09,Region of Current Residence - Midwest; Estimate; Population 1 year and over - Movers from abroad
+HC04_MOE_VC09,Region of Current Residence - Midwest; Margin of Error; Population 1 year and over - Movers from abroad
+HC05_EST_VC09,Region of Current Residence - South; Estimate; Population 1 year and over - Movers from abroad
+HC05_MOE_VC09,Region of Current Residence - South; Margin of Error; Population 1 year and over - Movers from abroad
+HC06_EST_VC09,Region of Current Residence - West; Estimate; Population 1 year and over - Movers from abroad
+HC06_MOE_VC09,Region of Current Residence - West; Margin of Error; Population 1 year and over - Movers from abroad
+HC01_EST_VC11,Total; Estimate; PERCENT IMPUTED - Residence 1 year ago
+HC01_MOE_VC11,Total; Margin of Error; PERCENT IMPUTED - Residence 1 year ago
+HC03_EST_VC11,Region of Current Residence - Northeast; Estimate; PERCENT IMPUTED - Residence 1 year ago
+HC03_MOE_VC11,Region of Current Residence - Northeast; Margin of Error; PERCENT IMPUTED - Residence 1 year ago
+HC04_EST_VC11,Region of Current Residence - Midwest; Estimate; PERCENT IMPUTED - Residence 1 year ago
+HC04_MOE_VC11,Region of Current Residence - Midwest; Margin of Error; PERCENT IMPUTED - Residence 1 year ago
+HC05_EST_VC11,Region of Current Residence - South; Estimate; PERCENT IMPUTED - Residence 1 year ago
+HC05_MOE_VC11,Region of Current Residence - South; Margin of Error; PERCENT IMPUTED - Residence 1 year ago
+HC06_EST_VC11,Region of Current Residence - West; Estimate; PERCENT IMPUTED - Residence 1 year ago
+HC06_MOE_VC11,Region of Current Residence - West; Margin of Error; PERCENT IMPUTED - Residence 1 year ago
