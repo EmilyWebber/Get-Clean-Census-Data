@@ -53,6 +53,7 @@ def change_file_names(codes, file_names):
 
 	print "Congratualations, you just renamed all of the files!!"
 
+
 if __name__ == "__main__":
 	codes = read_tables("Tables.txt")
 	print "Read {} codes".format(len(codes))
@@ -60,4 +61,6 @@ if __name__ == "__main__":
 	file_names = get_file_names()
 	print "Read {} file names".format(len(file_names))
 
-	change_file_names(codes, file_names)
+	newfiles = change_file_names(codes, file_names)
+
+	move_files(newfiles)

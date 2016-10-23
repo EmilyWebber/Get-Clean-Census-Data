@@ -14,4 +14,4 @@
 	$ python change_file_names.py
 	```
 
-3. Each 
+3. This next script will select only the useful files, make their names even more simple, and move them into the cleaned directory.
