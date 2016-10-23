@@ -1,5 +1,5 @@
 # Get-Clean-Census-Data
-A gift. 5 years of clean and ready-to-use census data
+A gift. Nine years of clean and ready-to-use census data
 
 ## Download Steps
 1. Go to factfinder.census.gov
@@ -20,7 +20,7 @@ A gift. 5 years of clean and ready-to-use census data
 
 9. You have to do this for as many years as you want data. They have ACS 1-yr estimates from 2007 - 2015. If you get all the datasets, it takes about 40 minutes of futzing on your computer to get it done.
 
-If you want a different geographic boundary, I'm sorry, you'll have to modify the code yourself.
+If you want a different geographic boundary, you can use all of file unzip directory, but for processing, I'm sorry, you'll have to modify the code yourself.
 
 ### Unzip the files by following the instructions in directory labeled as such.
 
