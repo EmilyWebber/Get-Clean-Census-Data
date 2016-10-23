@@ -1,7 +1,7 @@
 # Get-Clean-Census-Data
 A gift. 5 years of clean and ready-to-use census data
 
-# Census Download Center
+## Download Steps
 1. Go to factfinder.census.gov
 
 2. Click on Download Center
@@ -22,6 +22,6 @@ A gift. 5 years of clean and ready-to-use census data
 
 If you want a different geographic boundary, I'm sorry, you'll have to modify the code yourself.
 
-# Unzip the files by following the instructions in directory labeled as such.
+### Unzip the files by following the instructions in directory labeled as such.
 
-# Process the files into ready-to-use csvs by following the instructions in the directory labeled as such.
+### Process the files into ready-to-use csvs by following the instructions in the directory labeled as such.
