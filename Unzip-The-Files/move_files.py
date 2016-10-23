@@ -13,8 +13,9 @@ def move_the_files():
 			table = splits[3]
 			# print splits
 
-			newname = table + " " + year + ".csv"
-			print newname
+			path = "../Clean-Files/{}/{}.csv".format(year, table)
+
+			os.rename(f, path)
 
 
 if __name__ == "__main__":
