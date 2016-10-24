@@ -1,6 +1,3 @@
-# Get-Clean-Census-Data
-A gift. Nine years of clean and ready-to-use census data
-
 ## Download Steps
 1. Go to factfinder.census.gov
 
