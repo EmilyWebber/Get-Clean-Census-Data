@@ -15,3 +15,7 @@
 	```
 
 3. This next script will select only the useful files, make their names even more simple, and move them into the cleaned directory.
+
+	```
+	$ python move_files.py
+	```
