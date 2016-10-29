@@ -24,9 +24,3 @@ If you need to make some change to the data that was downloaded, such as by alte
 8. Save this in the Zip-File-Download directory. Add an underscore and the year to the zip file name.
 
 9. You have to do this for as many years as you want data. They have ACS 1-yr estimates from 2007 - 2015. If you get all the datasets, it takes about 40 minutes of futzing on your computer to get it done.
-
-If you want a different geographic boundary, you can use all of file unzip directory, but for processing, I'm sorry, you'll have to modify the code yourself.
-
-### Unzip the files by following the instructions in directory labeled as such.
-
-### Process the files into ready-to-use csvs by following the instructions in the directory labeled as such.
