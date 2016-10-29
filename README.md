@@ -1,9 +1,11 @@
 ## Download Steps
-If you are cloning the repository to get the data that I've cleaned, you probably can just type the following code in your terminal, and all the data will be in your ```Clean-Files``` folder. I'm assuming that you have both git and python installed on your computer. If you don't have git, you'll need to download it in some other way. If you don't have Python, you won't be able to run my cleaning scripts, but you can still use the data in the directory however you want.
+If you are cloning the repository to get the data that I cleaned for you, you probably can just type the following code in your terminal, and all the data will be in your ```Clean-Files``` folder.
 
 ```
 $ git clone https://github.com/EmilyWebber/Get-Clean-Census-Data.git
 ```
+
+I'm assuming that you have both git and python installed on your computer. If you don't have git, you'll need to download it in some other way. If you don't have Python, you won't be able to run my cleaning scripts, but you can still use the data in the directory however you want.
 
 If you need to make some change to the data that was downloaded, such as by altering the states, the years, or the level of analysis, you'll need to follow these steps.
 
