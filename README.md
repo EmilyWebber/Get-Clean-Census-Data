@@ -1,15 +1,23 @@
 ## Download Steps
+If you are cloning the repository to get the data that I've cleaned, you probably can just type the following code in your terminal, and all the data will be in your ```Clean-Files``` folder.
+
+```
+$ git clone https://github.com/EmilyWebber/Get-Clean-Census-Data.git
+```
+
+If you need to make some change to the data that was downloaded, such as by altering the states, the years, or the level of analysis, you'll need to follow these steps.
+
 1. Go to factfinder.census.gov
 
 2. Click on Download Center
 
 3. Click "I know the dataset or table(s) that I want to download"
 
-4. You have to do this one dataset at a time. First select 2015 ACS 1-year Estimates. Click next.
+4. You have to do this one dataset at a time. Set your program to American Community Survey. First select 2015 ACS 1-year Estimates. Click next.
 
 5. Select a geographic type. We'll go with states. Click next.
 
-6. Click check all. Click next. 
+6. Click check all. Click next.
 
 7. It'll create a zip file with 25 items.
 
